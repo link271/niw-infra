@@ -1,0 +1,21 @@
+# IntelliJ
+/out/
+*.iml
+.idea/
+
+# vim
+*.swp
+.tags
+
+# Mac
+.DS_Store
+
+.envrc
+
+# Temporary folders
+tmp/
+temp/
+
+.terraform/
+bin/
+.terraform.lock.hcl
